@@ -1,0 +1,326 @@
+﻿
+
+
+
+
+
+
+<!doctype html>
+<html lang="ko">
+<head>
+<title>상세보기</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="css/base.css" />
+<link rel="stylesheet" type="text/css" href="css/layout.css" />
+
+
+<body>
+
+
+<!-- skip_navi -->
+<div id="skip_navi">
+	<a href="#top">메뉴로가기</a>
+	<a href="#container">본문으로 가기</a>
+</div>
+<!-- //skip_navi -->
+
+<div class="warp_detail01">
+	<h1><img src="image/logo.gif" alt=""></h1>
+	<div class="top_text">2016-11-21  12:30 PM - 서울시 전체 예산 27조 5038억원 중 <span>7조 5035억원</span> 집행 <img src="image/icon_new.gif" alt="새글"></div>
+	<div class="top_history">주요사업 > <span>마곡 R&D 지구 「LG 사이언스파크」 조성</span></div>
+
+	
+	<div class="left_memu_off" style="display:none;"><a href=""><img src="image/left_meny.png" alt="메뉴"></a></div>
+	<div class="left_memu_on" style="display:none;"><a href=""><img src="image/left_meny.png" alt="메뉴"></a></div>
+	<div class="left_memu_on_open"  style="display:none;">
+			<ul class="left_menu01">
+				<li class="m_icon01_se"><a href="">실시간 도시현황</a></li>
+				<li class="m_icon02"><a href="">여론동향</a></li>
+				<li class="m_icon03"><a href="">주요사업</a></li>
+				<li class="m_icon04"><a href="">시정현황</a></li>
+			</ul>
+			<div class="left_menu02">실시간 도시현황</div>
+			<div style="overflow-y:scroll; height:100%; width:200px;">
+			<ul class="left_menu03">
+				<li class="off"><a href="">재난안전대응현황</a></li>
+				<li class="on"><a href="">교통정보</a>
+				
+					<div class="left_menu03_02">
+						<ul class="left_menu03_02_01">
+							<li class="on"><a href="">소통정보</a>
+							
+								<div class="left_menu03_03">
+									<ul class="left_menu03_03_01">
+										<li><a href="">돌발 및 통제 </a><span><a href=""><img src="image/btn_off.gif" alt=""></a></span></li>
+										<li><a href="">돌발 및 통제 </a><span><a href=""><img src="image/btn_on.gif" alt=""></a></span></li>
+										<li><a href="">돌발 및 통제 </a><span><a href=""><img src="image/btn_off.gif" alt=""></a></span></li>
+									</ul>
+								</div>
+
+							</li>
+							<li class="off"><a href="">소통정보</a></li>
+							<li class="off"><a href="">소통정보</a></li>
+						</ul>
+					</div>
+
+				</li>
+				<li class="off"><a href="">대기환경정보</a></li>
+				<li class="off"><a href="">실시간 수질</a></li>
+				<li class="off"><a href="">재정현황</a></li>
+				<li class="off"><a href="">오늘의 물가</a></li>
+			</ul>
+			</div>
+	</div>
+
+	<div class="container">
+
+	
+
+
+ 
+		<div class="section04">
+			
+			<ul class="left_m_menu">
+				<li class="select">재안안전<span>22건</span></li>
+				<li>화재<span>22건</span></li>
+				<li>구조<span>22건</span></li>
+				<li>구급<span>22건</span></li>
+				<li>돌발및소통<span>22건</span></li>
+				<li class="long">기상<span class="temp">-15.c</span><span class="w2">흐림</span><span class="blue">동파주의</span></li>
+				<li>초미세먼지<span class="red">나쁨</span></li>
+				<li>미세먼지<span>보통</span></li>
+				<li>오존<span>보통</span></li>
+				<li>통합대기환경<span>좋음</span></li>
+				<li>상수도 <span>정상</span></li>
+			</ul>
+
+			<div class="m_top">
+				<div class="m_top_l">
+					<ul class="m_top_l_list">
+						<li class="select"><a href="">소통정보</a></li>
+						<li><a href="">CCTV</a></li>
+						<li><a href="">종합방재 유관기관</a></li>
+						<li><a href="">안전센터 유관기관</a></li>
+						<li><a href="">소방서관할위치</a></li>
+						<li><a href="">대피 시설정보</a></li>
+						<li><a href="">수방 방재시설물 정보</a></li>
+						<li><a href="">병원정보</a></li>
+					</ul>
+				</div>
+				<div  class="m_top_r">
+					<ul  class="m_top_r_list">
+						<li class="select"><a href="">위성</a></li>
+						<li><a href="">일반</a></li>
+					</ul>
+				</div>
+			</div>
+
+
+
+			<div class="m_con_c">
+
+				<ul  class="m_con_c_list">
+					<li  class="m_con_c_title"><span><a href="">마포 석유비축기지 재생, 공원 조성</a></span>
+					
+						<div  class="m_con_list_con">
+							<div  class="m_con_c_img"><img src="image/img02.gif" alt=""><p class="m_con_c_img_t">마포 석유비축기지 재생, 공원조성</p></div>
+							<div class="m_con_c_text">마포구 성산동  /  140,022㎡ <br>친환경 복합 상태환경문화공간으로 재생<br>‘17년 4월 준공  /  총 490 억원</div>
+							<div class="m_con_c_btn">
+								<div class="m_con_c_btn01"><a href="">위치보기</a></div>
+								<div class="m_con_c_btn02"><a href=""  class="con_btn02">상세보기</a></div>
+							</div>
+
+						</div>
+					</li>
+					<li><span><a href="">서울역 7017 프로젝트</a></span></li>
+					<li><span><a href="">서울역 7017 프로젝트</a></span></li>
+					<li><span><a href="">서울역 7017 프로젝트</a></span></li>
+					<li><span><a href="">서울역 7017 프로젝트</a></span></li>
+					<li><span><a href="">서울역 7017 프로젝트</a></span></li>
+					<li><span><a href="">서울역 7017 프로젝트</a></span></li>
+					<li><span><a href="">서울역 7017 프로젝트</a></span></li>
+					<li><span><a href="">서울역 7017 프로젝트</a></span></li>
+					<li><span><a href="">서울역 7017 프로젝트</a></span></li>
+					<li><span><a href="">서울역 7017 프로젝트</a></span></li>
+				</ul>
+				<div   class="m_con_c_page"><a href=""><strong>2</strong></a>/ <a href="">6</a>
+					<div  class="m_con_c_page_l"><a href=""><</a></div>
+					<div class="m_con_c_page_r"><a href="">></a></div>
+				</div>
+
+			</div>
+
+			<div class="m_con_bottom">
+				<ul  class="m_con_bottom_list">
+					<li><a href=""><img src="image/btn_pluse.gif" alt=""></a></li>
+					<li><a href=""><img src="image/btn_m.gif" alt=""></a></li>
+				</ul>
+				<div class="m_con_bottom_se"><select><option>구 선택</option></select><a href=""><img src="image/btn_rer.gif "></a></div>
+				<div class="m_con_bottom_in"><input type="text" >
+				<a href=""><img src="image/mbtn_search.gif" alt=""></a>
+				<a href=""><img src="image/btn_vo.gif" alt=""></a></div>
+			</div>
+
+
+			
+			
+		
+		</div>
+		<div class="section05">
+		
+			<div class="section05_01">
+				
+
+
+				<div class="top_title">뉴스</div>
+				<div class="section02_05_01" >
+					
+					<ul  class="tab05">
+						<li class="select"><a href="">전체</a></li>
+						<li><a href="">시민청</a></li>
+						<li><a href= >원순시</a></li>
+						<li><a href="">청녆수당</a></li>
+						<li><a href="">박원순시장</a></li>
+					</ul>
+					         
+				
+				</div>
+				<div class="poll_list_overflow03">
+					<div class="list_t">
+						<ul class="list_t_list">
+							<li style=" margin:0px;">
+								<div class="list_t_list_img"><img src="image/img02.gif" alt=""></div>
+								<div class="list_t_list_text">
+									<div class="date">2016-11-10</div>
+									<div class="text02"><a href="">서울시 관계자는 "LG사이언스파크 2차부지는 고효율 <span>태양광 모듈</span> 설치와 ESS(에너지저장장치) 장착, </a></div>
+								</div>
+							</li>
+							<li>
+								<div class="list_t_list_img"><img src="image/img02.gif" alt=""></div>
+								<div class="list_t_list_text">
+									<div class="date">2016-11-10</div>
+									<div class="text02"><a href="">서울시 관계자는 "LG사이언스파크 2차부지는 고효율 <span>태양광 모듈</span> 설치와 ESS(에너지저장장치) 장착, </a></div>
+								</div>
+							</li>
+							<li>
+								<div class="list_t_list_img"><img src="image/img02.gif" alt=""></div>
+								<div class="list_t_list_text">
+									<div class="date">2016-11-10</div>
+									<div class="text02"><a href="">서울시 관계자는 "LG사이언스파크 2차부지는 고효율 <span>태양광 모듈</span> 설치와 ESS(에너지저장장치) 장착, </a></div>
+								</div>
+							</li>
+							<li>
+								<div class="list_t_list_img"><img src="image/img02.gif" alt=""></div>
+								<div class="list_t_list_text">
+									<div class="date">2016-11-10</div>
+									<div class="text02"><a href="">서울시 관계자는 "LG사이언스파크 2차부지는 고효율 <span>태양광 모듈</span> 설치와 ESS(에너지저장장치) 장착, </a></div>
+								</div>
+							</li>
+							<li>
+								<div class="list_t_list_img"><img src="image/img02.gif" alt=""></div>
+								<div class="list_t_list_text">
+									<div class="date">2016-11-10</div>
+									<div class="text02"><a href="">서울시 관계자는 "LG사이언스파크 2차부지는 고효율 <span>태양광 모듈</span> 설치와 ESS(에너지저장장치) 장착, </a></div>
+								</div>
+							</li>
+							<li>
+								<div class="list_t_list_img"><img src="image/img02.gif" alt=""></div>
+								<div class="list_t_list_text">
+									<div class="date">2016-11-10</div>
+									<div class="text02"><a href="">서울시 관계자는 "LG사이언스파크 2차부지는 고효율 <span>태양광 모듈</span> 설치와 ESS(에너지저장장치) 장착, </a></div>
+								</div>
+							</li>
+							
+							
+
+							
+						</ul>
+					</div>
+				</div>
+
+
+			</div>
+
+			<div class="section05_02">
+			
+			<div class="top_title">SNS</div>
+			<div class="poll_list_overflow03">
+				<div class="m_sns">
+					<ul class="m_sns_list">
+						<li>
+							<div class="m_sns_id"><img src="image/icon01.gif" alt=""> adfadfads</div>
+							<div  class="m_sns_time">2분전</div>
+							<div class="m_sns_img"><img src="image/icon_tw.gif" alt=""></div>
+							<div class="m_sns_text">서울시 관계자는 "LG사이언스파크 2차부지는 고효율 서울시 관계자는 "LG사이언스파크 2차부지는 고효율 LG사이언스파크 2차부지는 고효율 LG사이언스파크 2차부지는 고효율</div>
+						</li>
+						<li>
+							<div class="m_sns_id"><img src="image/icon01.gif" alt=""> adfadfads</div>
+							<div  class="m_sns_time">2분전</div>
+							<div class="m_sns_img"><img src="image/icon_fa.gif" alt=""></div>
+							<div class="m_sns_text">서울시 관계자는 "LG사이언스파크 2차부지는 고효율 서울시 관계자는 "LG사이언스파크 2차부지는 고효율 LG사이언스파크 2차부지는 고효율 LG사이언스파크 2차부지는 고효율</div>
+						</li>
+						<li>
+							<div class="m_sns_id"><img src="image/icon01.gif" alt=""> adfadfads</div>
+							<div  class="m_sns_time">2분전</div>
+							<div class="m_sns_img"><img src="image/icon_s.gif" alt=""></div>
+							<div class="m_sns_text">서울시 관계자는 "LG사이언스파크 2차부지는 고효율 서울시 관계자는 "LG사이언스파크 2차부지는 고효율 LG사이언스파크 2차부지는 고효율 LG사이언스파크 2차부지는 고효율</div>
+						</li>
+						<li>
+							<div class="m_sns_id"><img src="image/icon01.gif" alt=""> adfadfads</div>
+							<div  class="m_sns_time">2분전</div>
+							<div class="m_sns_img"><img src="image/icon_tw.gif" alt=""></div>
+							<div class="m_sns_text">서울시 관계자는 "LG사이언스파크 2차부지는 고효율 서울시 관계자는 "LG사이언스파크 2차부지는 고효율 LG사이언스파크 2차부지는 고효율 LG사이언스파크 2차부지는 고효율</div>
+						</li>
+						<li>
+							<div class="m_sns_id"><img src="image/icon01.gif" alt=""> adfadfads</div>
+							<div  class="m_sns_time">2분전</div>
+							<div class="m_sns_img"><img src="image/icon_tw.gif" alt=""></div>
+							<div class="m_sns_text">서울시 관계자는 "LG사이언스파크 2차부지는 고효율 서울시 관계자는 "LG사이언스파크 2차부지는 고효율 LG사이언스파크 2차부지는 고효율 LG사이언스파크 2차부지는 고효율</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+			
+			</div>
+		</div>
+
+		
+
+
+	</div>
+
+	
+
+</div>
+
+
+
+
+<div class="footer">
+
+	<ul class="footer_icon">
+		<li class="f_01"><a href=""><img src="image/footer_icon01.gif" alt=""></a></li>
+		<li class="f_01"><a href=""><img src="image/footer_icon02.gif" alt=""></a></li>
+		<li><a href=""><img src="image/footer_icon03.gif" alt=""></a></li>
+		<li><a href=""><img src="image/footer_icon04.gif" alt=""></a></li>
+		<li><a href=""><img src="image/footer_icon05.gif" alt=""></a></li>
+		<li><a href=""><img src="image/footer_icon06.gif" alt=""></a></li>
+		<li><a href=""><img src="image/footer_icon07.gif" alt=""></a></li>
+	</ul>
+	<ul class="footer_window">
+		<li class="select"><a href="">재난안전대응현황</a> <span><a href=""><img src="image/footer_x.gif" alt=""></a></span></li>
+		<li><a href="">ddddd</a><span><a href=""><img src="image/footer_x.gif" alt=""></a></span></li>
+		<li><a href="">ddddd</a><span><a href=""><img src="image/footer_x.gif" alt=""></a></span></li>
+		<li><a href="">ddddd</a><span><a href=""><img src="image/footer_x.gif" alt=""></a></span></li>
+	</ul>
+
+</div>
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,324 @@
+﻿
+
+
+
+
+
+
+<!doctype html>
+<html lang="ko">
+<head>
+<title>상세보기</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="css/base.css" />
+<link rel="stylesheet" type="text/css" href="css/layout.css" />
+<link rel="stylesheet" type="text/css" href="css/sub.css" />
+
+
+
+<body>
+
+
+<!-- skip_navi -->
+<div id="skip_navi">
+	<a href="#top">메뉴로가기</a>
+	<a href="#container">본문으로 가기</a>
+</div>
+<!-- //skip_navi -->
+
+<div class="warp_detail01">
+	<h1><img src="image/logo.gif" alt=""></h1>
+	<div class="top_text">2016-11-21  12:30 PM - 서울시 전체 예산 27조 5038억원 중 <span>7조 5035억원</span> 집행 <img src="image/icon_new.gif" alt="새글"></div>
+	<div class="top_history">주요사업 > <span>마곡 R&D 지구 「LG 사이언스파크」 조성</span></div>
+
+	<div class="container">
+
+		<div class="section011 ">
+			<div class="section01_03" >
+				<div  class="top_title">시민참여</div>
+				<div class="poll_box" >
+					
+						<div  class="poll_box01" >
+							<div  class="poll_box01_title">시민자유제안</div>
+							<div class="poll_box01_overflow"> 
+								<div class="poll_box01_con">
+									<div class="poll_box01_s"><span>문화관광</span></div>
+									<div class="num">dddd</div>
+									<div class="poll_box01_title2">문화재 해설기를 대체하는 어플제작 보급</div>
+									<div class="poll_box01_text">1. 재안배경:초기화면에서  여론동향 화면으로 진입한 시장님은 여론동향 초기화면에 시민토론(설전)의 시민의견들을 볼 수 있었고<br><br>
+		2. 재안배경:초기화면에서  여론동향 화면으로 진입한 시장님은 여론동향 초기화면에 시민토론(설전)의 시민의견들을 볼 수 있었고 </div>
+									
+								</div>
+								<div class="poll_box01_con">
+									<div class="poll_box01_s"><span>문화관광</span></div>
+									<div class="num">dddd</div>
+									<div class="poll_box01_title2">문화재 해설기를 대체하는 어플제작 보급</div>
+									<div class="poll_box01_text">1. 재안배경:초기화면에서  여론동향 화면으로 진입한 시장님은 여론동향 초기화면에 시민토론(설전)의 시민의견들을 볼 수 있었고<br><br>
+		2. 재안배경:초기화면에서  여론동향 화면으로 진입한 시장님은 여론동향 초기화면에 시민토론(설전)의 시민의견들을 볼 수 있었고 </div>
+									
+								</div>
+							</div>
+						</div>
+						
+					
+
+					<div  class="poll_box02" >
+						<div  class="poll_box01_title">시민토론(<span class="blue">55</span>)</div>
+						<div class="poll_box01_overflow"> 
+								<div class="poll_box01_con">
+									<div class="poll_box01_title2">서울시 청년활동지원사업 어떻게 생각하세요?</div>
+									<div class="num">dddd</div>
+									<div class="poll_box01_grap">그래프(찬반)</div>
+
+									<div class="poll_box01_sns"> 
+										<div class="sns_img"><img src="image/sns_img.gif" alt=""></div>
+										<div class="sns_text">
+											<div class="sns_title">esperandkf dskfj<span>2016.02.20 15:00</span></div>
+											<div class="sns_stext">1. 재안배경:초기화면에서  여론동향 화면으로 진입한 시장님은 여론동향 초기화면에 시민토론(설전)의 시민의견들을 볼 수 있었고</div>
+										</div>
+									</div>
+									<div class="poll_box01_sns"> 
+										<div class="sns_img"><img src="image/sns_img.gif" alt=""></div>
+										<div class="sns_text">
+											<div class="sns_title">esperandkf dskfj<span>2016.02.20 15:00</span></div>
+											<div class="sns_stext">1. 재안배경:초기화면에서  여론동향 화면으로 진입한 시장님은 여론동향 초기화면에 시민토론(설전)의 시민의견들을 볼 수 있었고</div>
+										</div>
+									</div>
+									<div class="poll_box01_sns"> 
+										<div class="sns_img"><img src="image/sns_img.gif" alt=""></div>
+										<div class="sns_text">
+											<div class="sns_title">esperandkf dskfj<span>2016.02.20 15:00</span></div>
+											<div class="sns_stext">1. 재안배경:초기화면에서  여론동향 화면으로 진입한 시장님은 여론동향 초기화면에 시민토론(설전)의 시민의견들을 볼 수 있었고</div>
+										</div>
+									</div>
+									
+								</div>
+								
+							</div>
+						
+					</div>
+				</div>
+			</div>
+
+			<div class="section01_04">
+				<ul class="tab03">
+					<li class="select"><a href="">응답소</a></li>
+					<li><a href="">다산콜</a></li>
+					<li><a href="">SNS</a></li>
+				</ul>
+				<div class="section01_04_grap">
+					<div  class="section01_04_grap01" >dd</div>
+					<div  class="section01_04_grap02" >ddd</div>
+				</div>
+			
+			</div>		
+		</div>
+
+
+		<div class="section022">
+			<div class="section02_05" >
+				<div class="top_title">공정현황</div>
+				<div class="section02_05_01" >
+					
+					<ul  class="tab04">
+						<li class="select"><a href="">복지</a></li>
+						<li><a href="">주택</a></li>
+						<li><a href= >일자리</a></li>
+						<li><a href="">급여</a></li>
+						<li><a href="">인구</a></li>
+						<li><a href="">전입진출</a></li>
+						<li><a href="">소비생활</a></li>
+						<li><a href="">대중교통</a></li>
+						<li><a href="">시행정</a></li>
+						<li><a href="">시장</a></li>
+					</ul>
+					         
+				
+				</div>
+				<div class="poll_list_overflow">
+					<div class="list_t">
+						<ul class="list_t_list">
+							<li style=" margin:0px;">
+								<div class="list_t_list_img"><img src="image/img02.gif" alt=""></div>
+								<div class="list_t_list_text">
+									<div class="date">2016-11-10</div>
+									<div class="num">dddd</div>
+									<div class="text02"><a href="">서울시 관계자는 "LG사이언스파크 2차부지는 고효율 <span>태양광 모듈</span> 설치와 ESS(에너지저장장치) 장착, 고효율 냉난방 시스템 도입 등을 통해 세계 최고 수준의 ...</a></div>
+								</div>
+							</li>
+							<li>
+								<div class="list_t_list_img"><img src="image/img02.gif" alt=""></div>
+								<div class="list_t_list_text">
+									<div class="date">2016-11-10</div>
+									<div class="num">dddd</div>
+									<div class="text02"><a href="">서울시 관계자는 "LG사이언스파크 2차부지는 고효율 태양광 모듈 설치와 ESS(에너지저장장치) 장착, 고효율 냉난방 시스템 도입 등을 통해 세계 최고 수준의 ...</a></div>
+								</div>
+							</li>
+							<li>
+								<div class="list_t_list_img"><img src="image/img02.gif" alt=""></div>
+								<div class="list_t_list_text">
+									<div class="date">2016-11-10</div>
+									<div class="num">dddd</div>
+									<div class="text02"><a href="">서울시 관계자는 "LG사이언스파크 2차부지는 고효율 태양광 모듈 설치와 ESS(에너지저장장치) 장착, 고효율 냉난방 시스템 도입 등을 통해 세계 최고 수준의 ...</a></div>
+								</div>
+							</li>
+							<li>
+								<div class="list_t_list_img"><img src="image/img02.gif" alt=""></div>
+								<div class="list_t_list_text">
+									<div class="date">2016-11-10</div>
+									<div class="num">dddd</div>
+									<div class="text02"><a href="">서울시 관계자는 "LG사이언스파크 2차부지는 고효율 태양광 모듈 설치와 ESS(에너지저장장치) 장착, 고효율 냉난방 시스템 도입 등을 통해 세계 최고 수준의 ...</a></div>
+								</div>
+							</li>
+							<li>
+								<div class="list_t_list_img"><img src="image/img02.gif" alt=""></div>
+								<div class="list_t_list_text">
+									<div class="date">2016-11-10</div>
+									<div class="num">dddd</div>
+									<div class="text02"><a href="">서울시 관계자는 "LG사이언스파크 2차부지는 고효율 태양광 모듈 설치와 ESS(에너지저장장치) 장착, 고효율 냉난방 시스템 도입 등을 통해 세계 최고 수준의 ...</a></div>
+								</div>
+							</li>
+							<li>
+								<div class="list_t_list_img"><img src="image/img02.gif" alt=""></div>
+								<div class="list_t_list_text">
+									<div class="date">2016-11-10</div>
+									<div class="num">dddd</div>
+									<div class="text02"><a href="">서울시 관계자는 "LG사이언스파크 2차부지는 고효율 태양광 모듈 설치와 ESS(에너지저장장치) 장착, 고효율 냉난방 시스템 도입 등을 통해 세계 최고 수준의 ...</a></div>
+								</div>
+							</li>
+
+							<li style="background:none; padding:0px;">
+								<div class="list_t_list_img"><img src="image/img02.gif" alt=""></div>
+								<div class="list_t_list_text">
+									<div class="date">2016-11-10</div>
+									<div class="num">dddd</div>
+									<div class="text02"><a href="">서울시 관계자는 "LG사이언스파크 2차부지는 고효율 태양광 모듈 설치와 ESS(에너지저장장치) 장착, 고효율 냉난방 시스템 도입 등을 통해 세계 최고 수준의 ...</a></div>
+								</div>
+							</li>
+
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="section02_06" >
+					<ul class="tab03">
+						<li class="select"><a href="">Twitter</a></li>
+						<li><a href="">FaceBook</a></li>
+						<li><a href="">Instagram</a></li>
+						<li><a href="">Flickr</a></li>
+						<li><a href="">YouTube</a></li>
+					</ul>
+				   
+					<div class="poll_img_overflow">
+					<ul class="poll_img">
+						<li><a href=""><img src="image/poll_img01.gif" alt=""></a></li>
+						<li><a href=""><img src="image/poll_img02.gif" alt=""></a></li>
+						<li><a href=""><img src="image/poll_img01.gif" alt=""></a></li>
+						<li><a href=""><img src="image/poll_img02.gif" alt=""></a></li>
+						<li><a href=""><img src="image/poll_img01.gif" alt=""></a></li>
+						<li><a href=""><img src="image/poll_img02.gif" alt=""></a></li>
+					</ul>
+					</div>
+				
+			
+			</div>
+		</div>
+
+
+		<div class="section034">
+
+			<div class="section03_03" >
+			
+			<div class="top_title">이슈모니터</div>
+			<div class="section03_03_01">			
+				<ul class="tab05">
+					<li class="select"><a href="">금일</a></li>
+					<li><a href="">일주일</a></li>
+					<li><a href="">한달</a></li>
+				</ul>
+			
+				<div class="section03_03_01_grap">그랲</div>
+			</div>
+				
+			</div>
+			<div class="section03_04">
+				
+				
+				
+					<div class="section03_02_t" >
+						<ul  class="tab03">
+							<li class="select"><a href="">금일</a></li>
+							<li><a href="">일주일</a></li>
+							<li><a href="">한달</a></li>
+						</ul>
+					</div>
+					<div class="poll_list_overflow2">
+					<div class="list_t">
+						<ul class="list_t_list">
+							<li style=" margin:0px;">
+								<div class="list_t_list_img"><img src="image/img02.gif" alt=""></div>
+								<div class="list_t_list_text">
+									<div class="date">2016-11-10</div>
+									<div class="num">dddd</div>
+									<div class="text02"><a href="">서울시 관계자는 "LG사이언스파크 2차부지는 고효율 <span>태양광 모듈</span> 설치와 ESS(에너지저장장치) 장착, 고효율 냉난방 시스템 도입 등을 통해 세계 최고 수준의 ...</a></div>
+								</div>
+							</li>
+							<li>
+								<div class="list_t_list_img"><img src="image/img02.gif" alt=""></div>
+								<div class="list_t_list_text">
+									<div class="date">2016-11-10</div>
+									<div class="num">dddd</div>
+									<div class="text02"><a href="">서울시 관계자는 "LG사이언스파크 2차부지는 고효율 태양광 모듈 설치와 ESS(에너지저장장치) 장착, 고효율 냉난방 시스템 도입 등을 통해 세계 최고 수준의 ...</a></div>
+								</div>
+							</li>
+							<li>
+								<div class="list_t_list_img"><img src="image/img02.gif" alt=""></div>
+								<div class="list_t_list_text">
+									<div class="date">2016-11-10</div>
+									<div class="num">dddd</div>
+									<div class="text02"><a href="">서울시 관계자는 "LG사이언스파크 2차부지는 고효율 태양광 모듈 설치와 ESS(에너지저장장치) 장착, 고효율 냉난방 시스템 도입 등을 통해 세계 최고 수준의 ...</a></div>
+								</div>
+							</li>
+							<li>
+								<div class="list_t_list_img"><img src="image/img02.gif" alt=""></div>
+								<div class="list_t_list_text">
+									<div class="date">2016-11-10</div>
+									<div class="num">dddd</div>
+									<div class="text02"><a href="">서울시 관계자는 "LG사이언스파크 2차부지는 고효율 태양광 모듈 설치와 ESS(에너지저장장치) 장착, 고효율 냉난방 시스템 도입 등을 통해 세계 최고 수준의 ...</a></div>
+								</div>
+							</li>
+							<li>
+								<div class="list_t_list_img"><img src="image/img02.gif" alt=""></div>
+								<div class="list_t_list_text">
+									<div class="date">2016-11-10</div>
+									<div class="num">dddd</div>
+									<div class="text02"><a href="">서울시 관계자는 "LG사이언스파크 2차부지는 고효율 태양광 모듈 설치와 ESS(에너지저장장치) 장착, 고효율 냉난방 시스템 도입 등을 통해 세계 최고 수준의 ...</a></div>
+								</div>
+							</li>
+							<li style="background:none; padding:0px;">
+								<div class="list_t_list_img"><img src="image/img02.gif" alt=""></div>
+								<div class="list_t_list_text">
+									<div class="date">2016-11-10</div>
+									<div class="num">dddd</div>
+									<div class="text02"><a href="">서울시 관계자는 "LG사이언스파크 2차부지는 고효율 태양광 모듈 설치와 ESS(에너지저장장치) 장착, 고효율 냉난방 시스템 도입 등을 통해 세계 최고 수준의 ...</a></div>
+								</div>
+							</li>
+
+						</ul>
+					</div>
+					</div>
+
+				
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+
+</body>
+</html>

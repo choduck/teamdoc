@@ -1,0 +1,43 @@
+﻿
+
+
+
+
+
+
+<!doctype html>
+<html lang="ko">
+<head>
+<title>상세보기</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="css/base.css" />
+<link rel="stylesheet" type="text/css" href="css/layout.css" />
+
+
+<body>
+
+
+
+<div class="popup">
+
+	<div class="popup_line">
+		<div class="ju_title">서울역 7017 프로젝트</div>
+		<div class="ju_title_tmore_b">
+			<dl class="ju_title_tmore">
+				<dt>사업기간 :</dt>
+				<dd>ddd</dd>
+				<dt>사업예산 :</dt>
+				<dd>ddd</dd>
+				<dt>위치정보 :</dt>
+				<dd>ddd</dd>
+			</dl>
+		</div>
+	</div>
+
+
+</div>
+
+</body>
+</html>

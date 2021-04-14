@@ -1,0 +1,91 @@
+@charset "utf-8";
+
+
+
+
+body {margin:0px; padding:0px;  font-family:"Noto Sans CJK KR",돋움, "", Arial, serif ; font-size:13px;  letter-spacing:-1px; height:100%;  }
+html{height:100%;}
+div, dl, dt, dd, ul, ol, li, pre, form, fieldset, input, textarea, p, blockquote, th, td {margin:0px; padding:0px;}
+
+header,footer,section,article,aside,nav,hgroup,details,menu,figure,figcaption{display:block;border:0;*margin:0;*padding:0;*font-size:0; padding:0px; margin:0px;}/* html5 */
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-style: normal;
+  font-weight: 700;
+  src: url(//themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-Bold.eot);
+  src: url(//themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-Bold.eot?#iefix) format('embedded-opentype'),
+       url(//themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-Bold.woff2) format('woff2'),
+       url(//themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-Bold.woff) format('woff'),
+       url(//themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-Bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-style: normal;
+  font-weight: 400;
+  src: url(//themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-Regular.eot);
+  src: url(//themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-Regular.eot?#iefix) format('embedded-opentype'),
+       url(//themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-Regular.woff2) format('woff2'),
+       url(//themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-Regular.woff) format('woff'),
+       url(//themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-style: normal;
+  font-weight: 800;
+  src: url(//themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-ExtraBold.eot);
+  src: url(//themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-ExtraBold.eot?#iefix) format('embedded-opentype'),
+       url(//themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-ExtraBold.woff2) format('woff2'),
+       url(//themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-ExtraBold.woff) format('woff'),
+       url(//themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-ExtraBold.ttf) format('truetype');
+	   
+} 
+
+@font-face { font-family: 'Gentona-Bold';src:  url( ' ../font/29583C_8_0.eot' );src: url('../font/29583C_8_0.eot?#iefix') format('embedded-opentype'),url('../font/29583C_8_0.woff') format('woff'),url('../font/29583C_8_0.ttf') format('truetype');}
+@font-face { font-family: 'Gentona-BoldItalic';src: url('/res/font/29583C_4_0.eot');src: url('/res/font/29583C_4_0.eot?#iefix') format('embedded-opentype'),url('/res/font/29583C_4_0.woff') format('woff'),url('/res/font/29583C_4_0.ttf') format('truetype');}
+@font-face { font-family: 'Gentona-Medium';src: url(' ../font/29583C_9_0.eot');src: url('../font/29583C_9_0.eot?#iefix') format('embedded-opentype'),url('../font/29583C_9_0.woff') format('woff'),url('../font/29583C_9_0.ttf') format('truetype');}
+
+
+
+a{color:#454545; text-decoration:none; margin:0px; padding:0px;}
+a:link{color:#454545; text-decoration:none; margin:0px; padding:0px;}
+a:hover{color:#454545;	text-decoration:none; margin:0px; padding:0px; }
+a:visited{color:#454545; text-decoration:none; margin:0px; padding:0px;}
+
+ hr{display:none;}
+*:first-child+html caption {display:none;}
+
+input, select, textarea {font-size:12px;  vertical-align:middle; color:#707070; font-family:"나눔고딕", Dotum, "돋움", Arial, serif ;}
+textarea{padding:4px; border:1px solid #c2c2c2;}
+input{padding:3px 4px;  height:14px; line-height:14px;}
+select{padding:1px 0px; border:1px solid #c2c2c2;}
+ul,ol{list-style:none}
+
+table{border-collapse:collapse; border-spacing:0;}
+img{border:0; vertical-align:middle;}
+
+h1{margin:0px; font-size:16px; font-weight:bold; }
+h2{margin:0px; font-size:14px; font-weight:bold; }
+h3{margin:0px; font-size:12px; font-weight:bold; }
+h4{margin:0px; font-size:12px; }
+h5{margin:0px; font-size:12px;}
+h6{margin:0px; font-size:12px; }
+
+caption{display:none}
+nav,ol,ul, {list-style:none; }
+fieldset {position:absolute; margin:0px; padding:0px; border:0px;}
+legend {position:absolute; top:0; left:0; width:0; height:0; overflow:hidden; visibility:hidden; font-size:0; line-height:0; padding:0px; margin:0px;} 
+
+#skip_navi{display:none;position:relative;z-index:2147483647}
+#skip_navi a{display:block;overflow:hidden;position:absolute;top:-999px;left:0;padding:10px 0;background-color:#000;color:#fff;font-weight:bold;font-size:14px;line-height:1.6;text-align:center;text-decoration:none;white-space:nowrap}
+#skip_navi a:active,#skip_navi a:focus{position:static}
+
+
+.hidden{display:none;}
+
+
+.margtop20{margin-top:20px;}
+.margtop10{margin-top:10px;}
+.margtop40{margin-top:40px;}
+.margbottom5{margin-bottom:5px;}
+.margtop10b10{margin:10px 0px;;}
+.font11{font-size:11px; line-height:140%;}

@@ -1,0 +1,36 @@
+﻿
+
+
+
+
+
+
+<!doctype html>
+<html lang="ko">
+<head>
+<title>상세보기</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="css/base.css" />
+<link rel="stylesheet" type="text/css" href="css/layout.css" />
+
+
+<body>
+
+
+
+<div class="popup">
+
+	<div class="cctv_line">
+		<div class="cctv_x_btn"><a href="">X</a></div>
+		<div class="cctv_title">남대문<span>세종로</span></div>
+		<div class="cctv_movie" style="height:300px;">영상</div>
+		<div class="cctv_btn"><a href=""><img src="image/btn_prev.gif" alt="이전"></a><a href=""><img src="image/btn_next01.gif" alt="이전"></a></div>
+	</div>
+
+
+</div>
+
+</body>
+</html>

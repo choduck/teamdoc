@@ -1,0 +1,1085 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>03_주요사업메인</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/03_주요사업메인/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/03_주요사업메인/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (Image) -->
+      <div id="u0" class="ax_image">
+        <img id="u0_img" class="img " src="images/00_초기화면/u0.jpg"/>
+        <!-- Unnamed () -->
+        <div id="u1" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u2" class="ax_image">
+        <img id="u2_img" class="img " src="images/03_주요사업메인/u2.png"/>
+        <!-- Unnamed () -->
+        <div id="u3" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- 서울역7017지도 (Dynamic Panel) -->
+      <div id="u4" class="ax_dynamic_panel" data-label="서울역7017지도">
+        <div id="u4_state0" class="panel_state" data-label="State1">
+          <div id="u4_state0_content" class="panel_state_content">
+
+            <!-- Unnamed (Image) -->
+            <div id="u5" class="ax_image">
+              <img id="u5_img" class="img " src="images/03_주요사업메인/u5.png"/>
+              <!-- Unnamed () -->
+              <div id="u6" class="text">
+                <p><span></span></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u7" class="ax_image">
+        <img id="u7_img" class="img " src="images/00_초기화면/u4.png"/>
+        <!-- Unnamed () -->
+        <div id="u8" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Shape) -->
+      <div id="u9" class="ax_shape">
+        <img id="u9_img" class="img " src="images/00_초기화면/u30.png"/>
+        <!-- Unnamed () -->
+        <div id="u10" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u11" class="ax_image">
+        <img id="u11_img" class="img " src="images/00_초기화면/u32.png"/>
+        <!-- Unnamed () -->
+        <div id="u12" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u13" class="ax_image">
+        <img id="u13_img" class="img " src="images/01_재난안전대응현황/u8.png"/>
+        <!-- Unnamed () -->
+        <div id="u14" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Shape) -->
+      <div id="u15" class="ax_shape">
+        <img id="u15_img" class="img " src="images/01_01_교통정보/u34.png"/>
+        <!-- Unnamed () -->
+        <div id="u16" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Shape) -->
+      <div id="u17" class="ax_h1">
+        <img id="u17_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u18" class="text">
+          <p><span>주요사업</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Shape) -->
+      <div id="u19" class="ax_shape">
+        <img id="u19_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u20" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Shape) -->
+      <div id="u21" class="ax_h1">
+        <img id="u21_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u22" class="text">
+          <p style="font-size:14px;"><span style="font-size:14px;color:#333333;">초기화면에서&nbsp; </span><span style="font-size:14px;color:#333333;">주요사업 </span><span style="font-size:14px;color:#333333;">화면으로 진입한 시장님은 </span></p><p style="font-size:13px;"><span style="font-size:13px;color:#333333;">서울역 7017 프로젝트의 위치지점을 </span><span style="font-size:13px;color:#FF0000;">(터치)</span><span style="font-size:13px;color:#333333;">하</span><span style="font-size:13px;color:#333333;">자 </span><span style="font-size:13px;color:#333333;">간략한 사업정보 팝업이 출력되었고, 상세내역을 파악하기 위해 상세정보를 </span><span style="font-size:13px;color:#FF0000;">(터치)</span><span style="font-size:13px;color:#333333;">하자 화면이 상세화면으로 전환되었다. </span></p><p style="font-size:13px;"><span style="font-size:13px;color:#333333;">&nbsp;</span></p><p style="font-size:14px;"><span style="font-size:14px;color:#333333;">[</span><span style="font-size:14px;color:#333333;">검색이용</span><span style="font-size:14px;color:#333333;">]</span></p><p style="font-size:14px;"><span style="font-size:14px;color:#333333;">초기화면에서&nbsp; </span><span style="font-size:14px;color:#333333;">주요사업 </span><span style="font-size:14px;color:#333333;">화면으로 진입한 시장님은 </span></p><p style="font-size:14px;"><span style="font-size:14px;color:#333333;">하단의 검색버튼을 터치하자 통합검색창이 출력되었고 </span><span style="font-size:14px;color:#333333;">음성인식</span><span style="font-size:14px;color:#333333;"> 버튼을 </span><span style="font-size:14px;color:#333333;">활용하여</span><span style="font-size:13px;color:#333333;"> &quot;</span><span style="font-size:13px;color:#333333;">검색 </span><span style="font-size:13px;color:#333333;">서</span><span style="font-size:13px;color:#333333;"></span><span style="font-size:13px;color:#333333;">울역 7017 프로젝트</span><span style="font-size:13px;color:#333333;">&quot;</span><span style="font-size:13px;color:#333333;">라고 말하자</span><span style="font-size:13px;color:#333333;">&nbsp;</span><span style="font-size:13px;color:#333333;">&quot;서울역 7017프로젝트&quot;가 텍스트로 입력되고 </span></p><p style="font-size:13px;"><span style="font-size:13px;color:#333333;"></span><span style="font-size:13px;color:#333333;">검색결과</span><span style="font-size:13px;color:#333333;">가 출력되었다. 검색결과 중 &quot;서울역 7017프로젝트&quot;를 </span><span style="font-size:13px;color:#FF0000;">(터치)</span><span style="font-size:13px;color:#333333;">하</span><span style="font-size:13px;color:#333333;">자 </span><span style="font-size:13px;color:#333333;">해당 위치가 표시하였고 </span><span style="font-size:13px;color:#333333;">위치지점을 </span><span style="font-size:13px;color:#FF0000;">(터치)</span><span style="font-size:13px;color:#333333;">하자 간략한 사업정보 팝업이 출력되었고, </span></p><p style="font-size:13px;"><span style="font-size:13px;color:#333333;">상세내역을 파악하기 위해 상세정보를 </span><span style="font-size:13px;color:#FF0000;">(터치)</span><span style="font-size:13px;color:#333333;">하자 화면이 상세화면으로 전환되었다. </span></p><p style="font-size:13px;"><span style="font-size:13px;color:#333333;">&nbsp;</span></p><p style="font-size:14px;"><span style="font-size:14px;color:#333333;">[음성인식</span><span style="font-size:14px;color:#333333;">]</span></p><p style="font-size:14px;"><span style="font-size:14px;color:#333333;">초기화면에서&nbsp; </span><span style="font-size:14px;color:#333333;">주요사업 </span><span style="font-size:14px;color:#333333;">화면으로 진입한 시장님은 </span></p><p style="font-size:14px;"><span style="font-size:14px;color:#333333;">음성인식</span><span style="font-size:14px;color:#333333;"> 버튼을 </span><span style="font-size:14px;color:#333333;">활용하여</span><span style="font-size:13px;color:#333333;"> &quot;</span><span style="font-size:13px;color:#333333;">서</span><span style="font-size:13px;color:#333333;"></span><span style="font-size:13px;color:#333333;">울역</span><span style="font-size:13px;color:#333333;">&quot;</span><span style="font-size:13px;color:#333333;">라고 말하자 </span><span style="font-size:13px;color:#333333;">지도가 해당 지역으로 이동하였고 </span></p><p style="font-size:13px;"><span style="font-size:13px;color:#333333;">&quot;서울역 7017프로젝트&quot;</span><span style="font-size:13px;color:#333333;"> 아이콘이 표시 되었다. 아이콘을 </span><span style="font-size:13px;color:#FF0000;">(터치)</span><span style="font-size:13px;color:#333333;">하</span><span style="font-size:13px;color:#333333;">자 </span><span style="font-size:13px;color:#333333;">해당 위치가 표시</span><span style="font-size:13px;color:#333333;">되었</span><span style="font-size:13px;color:#333333;">고 </span><span style="font-size:13px;color:#333333;">위치지점을 </span><span style="font-size:13px;color:#FF0000;">(터치)</span><span style="font-size:13px;color:#333333;">하자 간략한 사업정보 팝업이 출력되었</span><span style="font-size:13px;color:#333333;">다</span><span style="font-size:13px;color:#333333;">.</span><span style="font-size:13px;color:#333333;">&nbsp;</span></p><p style="font-size:13px;"><span style="font-size:13px;color:#333333;">상세내역을 파악하기 위해 상세정보를 </span><span style="font-size:13px;color:#FF0000;">(터치)</span><span style="font-size:13px;color:#333333;">하자 화면이 상세화면으로 전환되었다. </span></p>
+        </div>
+      </div>
+
+      <!-- 주요사업팝업 (Dynamic Panel) -->
+      <div id="u23" class="ax_dynamic_panel" data-label="주요사업팝업">
+        <div id="u23_state0" class="panel_state" data-label="State1">
+          <div id="u23_state0_content" class="panel_state_content">
+
+            <!-- Unnamed (Image) -->
+            <div id="u24" class="ax_image">
+              <img id="u24_img" class="img " src="images/03_주요사업메인/u24.png"/>
+              <!-- Unnamed () -->
+              <div id="u25" class="text">
+                <p><span></span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (Shape) -->
+            <div id="u26" class="ax_shape">
+              <img id="u26_img" class="img " src="resources/images/transparent.gif"/>
+              <!-- Unnamed () -->
+              <div id="u27" class="text">
+                <p><span></span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (Shape) -->
+            <div id="u28" class="ax_shape">
+              <img id="u28_img" class="img " src="resources/images/transparent.gif"/>
+              <!-- Unnamed () -->
+              <div id="u29" class="text">
+                <p><span></span></p>
+              </div>
+            </div>
+
+            <!-- 손가락 (Dynamic Panel) -->
+            <div id="u30" class="ax_dynamic_panel" data-label="손가락">
+              <div id="u30_state0" class="panel_state" data-label="State1">
+                <div id="u30_state0_content" class="panel_state_content">
+
+                  <!-- Unnamed (Image) -->
+                  <div id="u31" class="ax_image">
+                    <img id="u31_img" class="img " src="images/01_재난안전대응현황_상세/u39.gif"/>
+                    <!-- Unnamed () -->
+                    <div id="u32" class="text">
+                      <p><span></span></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Unnamed (Shape) -->
+            <div id="u33" class="ax_shape">
+              <img id="u33_img" class="img " src="images/03_주요사업메인/u33.png"/>
+              <!-- Unnamed () -->
+              <div id="u34" class="text">
+                <p><span>서울역 7017프로젝트</span></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (Shape) -->
+      <div id="u35" class="ax_shape">
+        <img id="u35_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u36" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Shape) -->
+      <div id="u37" class="ax_shape">
+        <img id="u37_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u38" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- 주요사업팝업2 (Dynamic Panel) -->
+      <div id="u39" class="ax_dynamic_panel" data-label="주요사업팝업2">
+        <div id="u39_state0" class="panel_state" data-label="State1">
+          <div id="u39_state0_content" class="panel_state_content">
+
+            <!-- Unnamed (Image) -->
+            <div id="u40" class="ax_image">
+              <img id="u40_img" class="img " src="images/03_주요사업메인/u40.png"/>
+              <!-- Unnamed () -->
+              <div id="u41" class="text">
+                <p><span></span></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (Shape) -->
+      <div id="u42" class="ax_shape">
+        <img id="u42_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u43" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Shape) -->
+      <div id="u44" class="ax_shape">
+        <img id="u44_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u45" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- 담당자연결 (Dynamic Panel) -->
+      <div id="u46" class="ax_dynamic_panel" data-label="담당자연결">
+        <div id="u46_state0" class="panel_state" data-label="State1">
+          <div id="u46_state0_content" class="panel_state_content">
+
+            <!-- Unnamed (Shape) -->
+            <div id="u47" class="ax_shape">
+              <img id="u47_img" class="img " src="images/00_초기화면/u99.png"/>
+              <!-- Unnamed () -->
+              <div id="u48" class="text">
+                <p><span>담</span><span>당자 연결</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (Shape) -->
+            <div id="u49" class="ax_shape">
+              <img id="u49_img" class="img " src="images/00_초기화면/u101.png"/>
+              <!-- Unnamed () -->
+              <div id="u50" class="text">
+                <p><span>영</span><span>상통화</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (Shape) -->
+            <div id="u51" class="ax_shape">
+              <img id="u51_img" class="img " src="images/00_초기화면/u101.png"/>
+              <!-- Unnamed () -->
+              <div id="u52" class="text">
+                <p><span>전</span><span>화연결</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (Shape) -->
+            <div id="u53" class="ax_shape">
+              <img id="u53_img" class="img " src="images/00_초기화면/u101.png"/>
+              <!-- Unnamed () -->
+              <div id="u54" class="text">
+                <p><span>메시지</span></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (Shape) -->
+      <div id="u55" class="ax_shape">
+        <img id="u55_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u56" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Shape) -->
+      <div id="u57" class="ax_shape">
+        <img id="u57_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u58" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Shape) -->
+      <div id="u59" class="ax_shape">
+        <img id="u59_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u60" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Shape) -->
+      <div id="u61" class="ax_shape">
+        <img id="u61_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u62" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- 손가락1 (Dynamic Panel) -->
+      <div id="u63" class="ax_dynamic_panel" data-label="손가락1">
+        <div id="u63_state0" class="panel_state" data-label="State1">
+          <div id="u63_state0_content" class="panel_state_content">
+
+            <!-- Unnamed (Image) -->
+            <div id="u64" class="ax_image">
+              <img id="u64_img" class="img " src="images/01_재난안전대응현황_상세/u39.gif"/>
+              <!-- Unnamed () -->
+              <div id="u65" class="text">
+                <p><span></span></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (Horizontal Line) -->
+      <div id="u66" class="ax_horizontal_line">
+        <img id="u66_start" class="img " src="resources/images/transparent.gif" alt="u66_start"/>
+        <img id="u66_end" class="img " src="resources/images/transparent.gif" alt="u66_end"/>
+        <img id="u66_line" class="img " src="images/01_재난안전대응현황/u203_line.png" alt="u66_line"/>
+      </div>
+
+      <!-- Unnamed (Vertical Line) -->
+      <div id="u67" class="ax_vertical_line">
+        <img id="u67_start" class="img " src="resources/images/transparent.gif" alt="u67_start"/>
+        <img id="u67_end" class="img " src="resources/images/transparent.gif" alt="u67_end"/>
+        <img id="u67_line" class="img " src="images/01_재난안전대응현황/u204_line.png" alt="u67_line"/>
+      </div>
+
+      <!-- Unnamed (Vertical Line) -->
+      <div id="u68" class="ax_vertical_line">
+        <img id="u68_start" class="img " src="resources/images/transparent.gif" alt="u68_start"/>
+        <img id="u68_end" class="img " src="resources/images/transparent.gif" alt="u68_end"/>
+        <img id="u68_line" class="img " src="images/01_재난안전대응현황/u204_line.png" alt="u68_line"/>
+      </div>
+
+      <!-- 손가락2 (Dynamic Panel) -->
+      <div id="u69" class="ax_dynamic_panel" data-label="손가락2">
+        <div id="u69_state0" class="panel_state" data-label="State1">
+          <div id="u69_state0_content" class="panel_state_content">
+
+            <!-- Unnamed (Image) -->
+            <div id="u70" class="ax_image">
+              <img id="u70_img" class="img " src="images/01_재난안전대응현황_상세/u39.gif"/>
+              <!-- Unnamed () -->
+              <div id="u71" class="text">
+                <p><span></span></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 담당자연결공통 (Dynamic Panel) -->
+      <div id="u72" class="ax_dynamic_panel" data-label="담당자연결공통">
+        <div id="u72_state0" class="panel_state" data-label="State1">
+          <div id="u72_state0_content" class="panel_state_content">
+
+            <!-- Unnamed (Shape) -->
+            <div id="u73" class="ax_shape">
+              <img id="u73_img" class="img " src="images/00_초기화면/u99.png"/>
+              <!-- Unnamed () -->
+              <div id="u74" class="text">
+                <p><span>담</span><span>당자 연결</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (Shape) -->
+            <div id="u75" class="ax_shape">
+              <img id="u75_img" class="img " src="images/00_초기화면/u101.png"/>
+              <!-- Unnamed () -->
+              <div id="u76" class="text">
+                <p><span>영</span><span>상통화</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (Shape) -->
+            <div id="u77" class="ax_shape">
+              <img id="u77_img" class="img " src="images/00_초기화면/u101.png"/>
+              <!-- Unnamed () -->
+              <div id="u78" class="text">
+                <p><span>전</span><span>화연결</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (Shape) -->
+            <div id="u79" class="ax_shape">
+              <img id="u79_img" class="img " src="images/00_초기화면/u101.png"/>
+              <!-- Unnamed () -->
+              <div id="u80" class="text">
+                <p><span>메시지</span></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 영상전화공통 (Dynamic Panel) -->
+      <div id="u81" class="ax_dynamic_panel" data-label="영상전화공통">
+        <div id="u81_state0" class="panel_state" data-label="State1">
+          <div id="u81_state0_content" class="panel_state_content">
+
+            <!-- Unnamed (Image) -->
+            <div id="u82" class="ax_image">
+              <img id="u82_img" class="img " src="images/00_초기화면/u108.png"/>
+              <!-- Unnamed () -->
+              <div id="u83" class="text">
+                <p><span></span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (Shape) -->
+            <div id="u84" class="ax_shape">
+              <img id="u84_img" class="img " src="images/00_초기화면/u89.png"/>
+              <!-- Unnamed () -->
+              <div id="u85" class="text">
+                <p><span>x</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (Shape) -->
+            <div id="u86" class="ax_shape">
+              <img id="u86_img" class="img " src="images/00_초기화면/u89.png"/>
+              <!-- Unnamed () -->
+              <div id="u87" class="text">
+                <p><span>▼</span></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 검색 (Dynamic Panel) -->
+      <div id="u88" class="ax_dynamic_panel" data-label="검색">
+        <div id="u88_state0" class="panel_state" data-label="State1">
+          <div id="u88_state0_content" class="panel_state_content">
+
+            <!-- Unnamed (Shape) -->
+            <div id="u89" class="ax_shape">
+              <img id="u89_img" class="img " src="images/00_초기화면/u39.png"/>
+              <!-- Unnamed () -->
+              <div id="u90" class="text">
+                <p><span></span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (Image) -->
+            <div id="u91" class="ax_image">
+              <img id="u91_img" class="img " src="images/00_초기화면/u41.png"/>
+              <!-- Unnamed () -->
+              <div id="u92" class="text">
+                <p><span></span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (Shape) -->
+            <div id="u93" class="ax_shape">
+              <img id="u93_img" class="img " src="images/00_초기화면/u43.png"/>
+              <!-- Unnamed () -->
+              <div id="u94" class="text">
+                <p><span>서울역 7017 프로젝트</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (HTML Button) -->
+            <div id="u95" class="ax_html_button">
+              <input id="u95_input" type="submit" value="검색"/>
+            </div>
+
+            <!-- Unnamed (HTML Button) -->
+            <div id="u96" class="ax_html_button">
+              <input id="u96_input" type="submit" value="음성"/>
+            </div>
+
+            <!-- Unnamed (Table) -->
+            <div id="u97" class="ax_table">
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u98" class="ax_table_cell">
+                <img id="u98_img" class="img " src="images/00_초기화면/u47.png"/>
+                <!-- Unnamed () -->
+                <div id="u99" class="text">
+                  <p><span>데이터명</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u100" class="ax_table_cell">
+                <img id="u100_img" class="img " src="images/00_초기화면/u49.png"/>
+                <!-- Unnamed () -->
+                <div id="u101" class="text">
+                  <p><span>담</span><span>당부서</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u102" class="ax_table_cell">
+                <img id="u102_img" class="img " src="images/00_초기화면/u51.png"/>
+                <!-- Unnamed () -->
+                <div id="u103" class="text">
+                  <p><span>&nbsp; </span><span>주요사업 &gt; 서울역 일대 종합발전계획 추진 &gt; 서울역 7017</span><span> 프로젝트</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u104" class="ax_table_cell">
+                <img id="u104_img" class="img " src="images/00_초기화면/u53.png"/>
+                <!-- Unnamed () -->
+                <div id="u105" class="text">
+                  <p><span>&nbsp;</span><span>안전총괄본부 서울역일대</span><span>...</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u106" class="ax_table_cell">
+                <img id="u106_img" class="img " src="images/00_초기화면/u51.png"/>
+                <!-- Unnamed () -->
+                <div id="u107" class="text">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u108" class="ax_table_cell">
+                <img id="u108_img" class="img " src="images/00_초기화면/u53.png"/>
+                <!-- Unnamed () -->
+                <div id="u109" class="text">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u110" class="ax_table_cell">
+                <img id="u110_img" class="img " src="images/00_초기화면/u51.png"/>
+                <!-- Unnamed () -->
+                <div id="u111" class="text">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u112" class="ax_table_cell">
+                <img id="u112_img" class="img " src="images/00_초기화면/u53.png"/>
+                <!-- Unnamed () -->
+                <div id="u113" class="text">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u114" class="ax_table_cell">
+                <img id="u114_img" class="img " src="images/00_초기화면/u51.png"/>
+                <!-- Unnamed () -->
+                <div id="u115" class="text">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u116" class="ax_table_cell">
+                <img id="u116_img" class="img " src="images/00_초기화면/u53.png"/>
+                <!-- Unnamed () -->
+                <div id="u117" class="text">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u118" class="ax_table_cell">
+                <img id="u118_img" class="img " src="images/00_초기화면/u51.png"/>
+                <!-- Unnamed () -->
+                <div id="u119" class="text">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u120" class="ax_table_cell">
+                <img id="u120_img" class="img " src="images/00_초기화면/u53.png"/>
+                <!-- Unnamed () -->
+                <div id="u121" class="text">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u122" class="ax_table_cell">
+                <img id="u122_img" class="img " src="images/00_초기화면/u51.png"/>
+                <!-- Unnamed () -->
+                <div id="u123" class="text">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u124" class="ax_table_cell">
+                <img id="u124_img" class="img " src="images/00_초기화면/u53.png"/>
+                <!-- Unnamed () -->
+                <div id="u125" class="text">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u126" class="ax_table_cell">
+                <img id="u126_img" class="img " src="images/00_초기화면/u51.png"/>
+                <!-- Unnamed () -->
+                <div id="u127" class="text">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u128" class="ax_table_cell">
+                <img id="u128_img" class="img " src="images/00_초기화면/u53.png"/>
+                <!-- Unnamed () -->
+                <div id="u129" class="text">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u130" class="ax_table_cell">
+                <img id="u130_img" class="img " src="images/00_초기화면/u51.png"/>
+                <!-- Unnamed () -->
+                <div id="u131" class="text">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u132" class="ax_table_cell">
+                <img id="u132_img" class="img " src="images/00_초기화면/u53.png"/>
+                <!-- Unnamed () -->
+                <div id="u133" class="text">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u134" class="ax_table_cell">
+                <img id="u134_img" class="img " src="images/00_초기화면/u83.png"/>
+                <!-- Unnamed () -->
+                <div id="u135" class="text">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u136" class="ax_table_cell">
+                <img id="u136_img" class="img " src="images/00_초기화면/u85.png"/>
+                <!-- Unnamed () -->
+                <div id="u137" class="text">
+                  <p><span></span></p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Unnamed (Shape) -->
+            <div id="u138" class="ax_h1">
+              <img id="u138_img" class="img " src="resources/images/transparent.gif"/>
+              <!-- Unnamed () -->
+              <div id="u139" class="text">
+                <p><span style="color:#FFFFFF;">&quot;</span><span style="color:#FFFF00;">서울역7017프로젝트</span><span style="color:#FFFFFF;">&quot; </span><span style="color:#FFFFFF;">검색결과</span><span style="color:#FFFFFF;">&nbsp;</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (Shape) -->
+            <div id="u140" class="ax_shape">
+              <img id="u140_img" class="img " src="images/00_초기화면/u89.png"/>
+              <!-- Unnamed () -->
+              <div id="u141" class="text">
+                <p><span>x</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (Image) -->
+            <div id="u142" class="ax_image">
+              <img id="u142_img" class="img " src="images/00_초기화면/u92.png"/>
+              <!-- Unnamed () -->
+              <div id="u143" class="text">
+                <p><span></span></p>
+              </div>
+            </div>
+
+            <!-- 검색결과 (Shape) -->
+            <div id="u144" class="ax_shape" data-label="검색결과">
+              <img id="u144_img" class="img " src="resources/images/transparent.gif"/>
+              <!-- Unnamed () -->
+              <div id="u145" class="text">
+                <p><span></span></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 결과2 (Dynamic Panel) -->
+      <div id="u146" class="ax_dynamic_panel" data-label="결과2">
+        <div id="u146_state0" class="panel_state" data-label="State1">
+          <div id="u146_state0_content" class="panel_state_content">
+
+            <!-- Unnamed (Shape) -->
+            <div id="u147" class="ax_shape">
+              <img id="u147_img" class="img " src="images/00_초기화면/u115.png"/>
+              <!-- Unnamed () -->
+              <div id="u148" class="text">
+                <p><span>ooo으로</span></p><p><span>검색중입니다</span></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 결과 (Dynamic Panel) -->
+      <div id="u149" class="ax_dynamic_panel" data-label="결과">
+        <div id="u149_state0" class="panel_state" data-label="State1">
+          <div id="u149_state0_content" class="panel_state_content">
+
+            <!-- Unnamed (Shape) -->
+            <div id="u150" class="ax_shape">
+              <img id="u150_img" class="img " src="images/00_초기화면/u115.png"/>
+              <!-- Unnamed () -->
+              <div id="u151" class="text">
+                <p><span>ㅇㅇㅇ화면으로</span></p><p><span>이동합니다</span></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 음성인식 (Dynamic Panel) -->
+      <div id="u152" class="ax_dynamic_panel" data-label="음성인식">
+        <div id="u152_state0" class="panel_state" data-label="State1">
+          <div id="u152_state0_content" class="panel_state_content">
+
+            <!-- Unnamed (Shape) -->
+            <div id="u153" class="ax_shape">
+              <img id="u153_img" class="img " src="images/00_초기화면/u115.png"/>
+              <!-- Unnamed () -->
+              <div id="u154" class="text">
+                <p><span>음성인식 중입니다</span></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 즐겨찾기공통 (Dynamic Panel) -->
+      <div id="u155" class="ax_dynamic_panel" data-label="즐겨찾기공통">
+        <div id="u155_state0" class="panel_state" data-label="State1">
+          <div id="u155_state0_content" class="panel_state_content">
+
+            <!-- Unnamed (Shape) -->
+            <div id="u156" class="ax_shape">
+              <img id="u156_img" class="img " src="images/00_초기화면/u39.png"/>
+              <!-- Unnamed () -->
+              <div id="u157" class="text">
+                <p><span></span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (Table) -->
+            <div id="u158" class="ax_table">
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u159" class="ax_table_cell">
+                <img id="u159_img" class="img " src="images/00_초기화면/u47.png"/>
+                <!-- Unnamed () -->
+                <div id="u160" class="text">
+                  <p><span>데이터명</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u161" class="ax_table_cell">
+                <img id="u161_img" class="img " src="images/00_초기화면/u49.png"/>
+                <!-- Unnamed () -->
+                <div id="u162" class="text">
+                  <p><span>담</span><span>당부서</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u163" class="ax_table_cell">
+                <img id="u163_img" class="img " src="images/00_초기화면/u51.png"/>
+                <!-- Unnamed () -->
+                <div id="u164" class="text">
+                  <p><span>찾아가는 동주민센터</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u165" class="ax_table_cell">
+                <img id="u165_img" class="img " src="images/00_초기화면/u53.png"/>
+                <!-- Unnamed () -->
+                <div id="u166" class="text">
+                  <p><span>&nbsp;</span><span>행정국 자치행정과</span><span> 홍길동</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u167" class="ax_table_cell">
+                <img id="u167_img" class="img " src="images/00_초기화면/u51.png"/>
+                <!-- Unnamed () -->
+                <div id="u168" class="text">
+                  <p><span>서울역 일대 종합발전계획 추진 &gt; 서울역 7017</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u169" class="ax_table_cell">
+                <img id="u169_img" class="img " src="images/00_초기화면/u53.png"/>
+                <!-- Unnamed () -->
+                <div id="u170" class="text">
+                  <p><span>&nbsp;</span><span>안전총괄본부 서울역일대</span><span>...</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u171" class="ax_table_cell">
+                <img id="u171_img" class="img " src="images/00_초기화면/u51.png"/>
+                <!-- Unnamed () -->
+                <div id="u172" class="text">
+                  <p><span>꾸</span><span>미고 꾸미는 학교화장실</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u173" class="ax_table_cell">
+                <img id="u173_img" class="img " src="images/00_초기화면/u53.png"/>
+                <!-- Unnamed () -->
+                <div id="u174" class="text">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u175" class="ax_table_cell">
+                <img id="u175_img" class="img " src="images/00_초기화면/u51.png"/>
+                <!-- Unnamed () -->
+                <div id="u176" class="text">
+                  <p><span>안</span><span>전한 보행길 조성</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u177" class="ax_table_cell">
+                <img id="u177_img" class="img " src="images/00_초기화면/u53.png"/>
+                <!-- Unnamed () -->
+                <div id="u178" class="text">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u179" class="ax_table_cell">
+                <img id="u179_img" class="img " src="images/00_초기화면/u51.png"/>
+                <!-- Unnamed () -->
+                <div id="u180" class="text">
+                  <p><span>공공분야 비정규직 정규직화</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u181" class="ax_table_cell">
+                <img id="u181_img" class="img " src="images/00_초기화면/u53.png"/>
+                <!-- Unnamed () -->
+                <div id="u182" class="text">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u183" class="ax_table_cell">
+                <img id="u183_img" class="img " src="images/00_초기화면/u51.png"/>
+                <!-- Unnamed () -->
+                <div id="u184" class="text">
+                  <p><span>국</span><span>공립어린이집 확충</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u185" class="ax_table_cell">
+                <img id="u185_img" class="img " src="images/00_초기화면/u53.png"/>
+                <!-- Unnamed () -->
+                <div id="u186" class="text">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u187" class="ax_table_cell">
+                <img id="u187_img" class="img " src="images/00_초기화면/u51.png"/>
+                <!-- Unnamed () -->
+                <div id="u188" class="text">
+                  <p><span>환</span><span>자안심병원 병실 확충</span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u189" class="ax_table_cell">
+                <img id="u189_img" class="img " src="images/00_초기화면/u53.png"/>
+                <!-- Unnamed () -->
+                <div id="u190" class="text">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u191" class="ax_table_cell">
+                <img id="u191_img" class="img " src="images/00_초기화면/u51.png"/>
+                <!-- Unnamed () -->
+                <div id="u192" class="text">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u193" class="ax_table_cell">
+                <img id="u193_img" class="img " src="images/00_초기화면/u53.png"/>
+                <!-- Unnamed () -->
+                <div id="u194" class="text">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u195" class="ax_table_cell">
+                <img id="u195_img" class="img " src="images/00_초기화면/u83.png"/>
+                <!-- Unnamed () -->
+                <div id="u196" class="text">
+                  <p><span></span></p>
+                </div>
+              </div>
+
+              <!-- Unnamed (Table Cell) -->
+              <div id="u197" class="ax_table_cell">
+                <img id="u197_img" class="img " src="images/00_초기화면/u85.png"/>
+                <!-- Unnamed () -->
+                <div id="u198" class="text">
+                  <p><span></span></p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Unnamed (Shape) -->
+            <div id="u199" class="ax_h1">
+              <img id="u199_img" class="img " src="resources/images/transparent.gif"/>
+              <!-- Unnamed () -->
+              <div id="u200" class="text">
+                <p><span>즐겨찾기</span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (Shape) -->
+            <div id="u201" class="ax_shape">
+              <img id="u201_img" class="img " src="images/00_초기화면/u89.png"/>
+              <!-- Unnamed () -->
+              <div id="u202" class="text">
+                <p><span>x</span></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 좌측메뉴주요사업 (Dynamic Panel) -->
+      <div id="u203" class="ax_dynamic_panel" data-label="좌측메뉴주요사업">
+        <div id="u203_state0" class="panel_state" data-label="State1">
+          <div id="u203_state0_content" class="panel_state_content">
+
+            <!-- Unnamed (Image) -->
+            <div id="u204" class="ax_image">
+              <img id="u204_img" class="img " src="images/03_주요사업상세/u208.png"/>
+              <!-- Unnamed () -->
+              <div id="u205" class="text">
+                <p><span></span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (Shape) -->
+            <div id="u206" class="ax_shape">
+              <img id="u206_img" class="img " src="resources/images/transparent.gif"/>
+              <!-- Unnamed () -->
+              <div id="u207" class="text">
+                <p><span></span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (Shape) -->
+            <div id="u208" class="ax_shape">
+              <img id="u208_img" class="img " src="resources/images/transparent.gif"/>
+              <!-- Unnamed () -->
+              <div id="u209" class="text">
+                <p><span></span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (Shape) -->
+            <div id="u210" class="ax_shape">
+              <img id="u210_img" class="img " src="resources/images/transparent.gif"/>
+              <!-- Unnamed () -->
+              <div id="u211" class="text">
+                <p><span></span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (Shape) -->
+            <div id="u212" class="ax_shape">
+              <img id="u212_img" class="img " src="resources/images/transparent.gif"/>
+              <!-- Unnamed () -->
+              <div id="u213" class="text">
+                <p><span></span></p>
+              </div>
+            </div>
+
+            <!-- Unnamed (Shape) -->
+            <div id="u214" class="ax_shape">
+              <img id="u214_img" class="img " src="resources/images/transparent.gif"/>
+              <!-- Unnamed () -->
+              <div id="u215" class="text">
+                <p><span></span></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

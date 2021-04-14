@@ -1,0 +1,53 @@
+﻿
+
+
+
+
+
+
+<!doctype html>
+<html lang="ko">
+<head>
+<title>상세보기</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="css/base.css" />
+<link rel="stylesheet" type="text/css" href="css/layout.css" />
+
+
+<body>
+
+
+
+<div class="popup">
+
+	<div class="popup_line">
+		<div class="ju_title2_t">
+			<div class="ju_title2_t_x"><a href="">X</a></div>
+			<div class="ju_title2">서울역 7017 프로젝트</div>
+			<div class="map_cctv_left_con">
+			<div class="map_cctv_left_text">현장대응 도로교통과 홍길동 주무관 현장대응 도로교통과 홍길동 주무관 현장대응 도로교통과 홍길동 주무관 현장대응 도로교통과 홍길동 주무관 현장대응 도로교통과 홍길동 주무관</div>
+			<dl  class="map_cctv_left_tmore">
+				<dt>발생시각</dt>
+				<dd ><span class="red2 f11">2016.11.12 13:40</span></dd>
+				<dt>최종수정</dt>
+				<dd>2016.11.12 13:40</dd>
+				<dt>담당자</dt>
+				<dd class="pull">현장대응 도로교통과 홍길동 주무관</dd>
+			</dl>
+
+			<div  class="map_cctv_left_bottom">
+				
+				
+				<div  class="btn_more2">상세보기</div>
+			</div>
+		</div>
+		</div>
+	</div>
+
+
+</div>
+
+</body>
+</html>
